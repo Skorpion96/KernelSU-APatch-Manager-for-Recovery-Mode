@@ -1,5 +1,5 @@
 # KernelSU/APatch Manager for Recovery Mode (mm)
-AFork of https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode and https://github.com/Magisk-Modules-Repo/mm that enables the script to work with KernelSU and APatch
+A fork of https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode and https://github.com/Magisk-Modules-Repo/mm that enables the script to work with KernelSU and APatch
 
 Easily manage your **APatch/KernelSU Modules** from a terminal session in your custom recovery! *(e.g. [TWRP](https://twrp.me/))*
 
