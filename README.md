@@ -48,7 +48,9 @@ Just delete the /sdcard/mm script
 4. Simply follow the instructions/wizard, everything is interactive!
 
 ## Links to the current KernelSU/APatch Manager for Recovery Mode
-After i will upload everything
+- [Source Code](https://github.com/Skorpion96/KernelSU-APatch-Manager-for-Recovery-Mode)
+- [Developer](https://github.com/Skorpion96)
+- [Donate](https://www.buymeacoffee.com/skorpion96)
 
 ## Links to the current Magisk Manager for Recovery Mode
 **Current - Rikj000**
