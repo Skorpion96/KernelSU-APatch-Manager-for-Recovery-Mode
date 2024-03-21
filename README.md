@@ -29,6 +29,7 @@ Yes who said Magisk Manager for Recovery Mode Couldn't work with APatch/KernelSU
 
 Just download the script for your root solution and place it on the root of your sdcard, then on recovery chmod it for execution:
 adb push mm(-ksu or -apatch) /sdcard/mm (you can copy the file direcltly with a file manager for simplicity or drag and drop it on a terminal)
+
 chmod +x /sdcard/mm
 
 cd /sdcard
