@@ -10,7 +10,7 @@ Yes who said Magisk Manager for Recovery Mode Couldn't work with APatch/KernelSU
 
 
 ## Features list
-- Automatically fix modules.img (e2fsck -fy)
+- Automatically fix modules.img (e2fsck -fy) or you can reset modules by deleting the img directly
 - List installed modules
 - Toggle
   - Core only mode
